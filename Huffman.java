@@ -3,7 +3,6 @@ import java.util.Map;
 
 /**
  * Interface for PS-3
- * @author Tim Pierson and Henry Kim, Dartmouth CS10 Winter 2023
  */
 public interface Huffman {
     /**
